@@ -1,4 +1,4 @@
-#to take two inputs from user and perform addition
+#to take two inputs from user and perform addition:
 
 a=int(float("Enter the first number: "))
 b=float(input("Enter the second number: "))
